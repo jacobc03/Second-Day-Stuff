@@ -1,0 +1,21 @@
+.firstClass, .secondClass {
+	color: red;
+}
+
+.secondClass {
+	font-weight: bold;
+}
+#title {
+	color: blue;
+}
+
+a {
+	font-size: 50px;
+}
+img {
+	height: 100px;
+	width: 50%;
+	float: left;
+	margin-right: 20px;
+	border:30px solid yellow;
+}
